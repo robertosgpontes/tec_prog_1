@@ -1,0 +1,12 @@
+Exercícios:
+
+1- Leve os dados AS_IS do Google Drive para o Banco de Dados Local (MySQL). Faça isso em um processo único, isto é, ao executar o código/notebook, ele deve ser capaz de ingerir esses dados
+2- A partir do conjunto de dados, disponibilizado em: https://www.kaggle.com/code/aremoto/retail-sales-forecast/data, faça:
+
+	Insira-os em um banco de dados
+	Uma função que retorne a média de preços dos combustíveis e das temperaturas num determinado range de data. Ex.: def funcao('fuel' or 'temperature', 'data_inicio', 'data_fim')
+	Um histograma com a média das temperaturas e preço classificada por ano
+	
+3- Simule um streaming de dados a partir dos dados de venda do Kaggle (a partir de https://www.kaggle.com/datasets/knightbearr/sales-product-data).
+
+4- Reproduza os describes da aba columns do Kaggle (https://www.kaggle.com/datasets/knightbearr/sales-product-data)
